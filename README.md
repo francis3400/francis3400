@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @francis3400
+- 👀 I’m interested in Frontend Developer
+- 🌱 I’m currently learning JavaScript with React
+- 💞️ I’m looking to collaborate on interesting Frontend frameworks
+- 📫 How to reach me +2348166541651

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @francis3400
+- 👋 Hi, I’m @Francis Uche
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning JavaScript with React
 - 💞️ I’m looking to collaborate on interesting Frontend frameworks
